@@ -1,0 +1,15 @@
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\bin\Debug\InfinityWar.exe.config
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\bin\Debug\InfinityWar.exe
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\bin\Debug\InfinityWar.pdb
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.csprojAssemblyReference.cache
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.Fight.resources
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.Heroes.resources
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.Planets.resources
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.Start.resources
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.Properties.Resources.resources
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.Villains.resources
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.Winner.resources
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.csproj.GenerateResource.cache
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.exe
+C:\Users\Liviu\Desktop\CoreBuilt\InfinityWar\InfinityWar\obj\Debug\InfinityWar.pdb
